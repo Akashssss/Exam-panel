@@ -14,7 +14,7 @@ export default function Card() {
           </div>
           <div className="pr-2">02:39:29</div>
         </div>
-        <div className="pt-5">Henry jonk</div>
+        <div className="pt-5">Akash Singh</div>
       </div>
     </div>
   );
